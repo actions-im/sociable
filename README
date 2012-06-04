@@ -1,0 +1,9 @@
+Sociable gem provides abilities to share various user actions happening in your app and present these on custom newsfeed.
+  The following features can be seamlessly added to your app:
+  1. Create user account using Facebook or Twitter profiles.
+  2. Invite friends from email address book, facebook, twitter.
+  3. Track various events happening in your application.
+    It can be anything from uploading new picture to installing new plug-in.
+  4. Present user activities on user profile page.
+  5. Follow friends activities.
+  6. Present configurable newsfeed, which shows timeline of events happening in the app.
