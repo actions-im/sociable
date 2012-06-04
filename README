@@ -7,3 +7,5 @@ Sociable gem provides abilities to share various user actions happening in your 
   4. Present user activities on user profile page.
   5. Follow friends activities.
   6. Present configurable newsfeed, which shows timeline of events happening in the app.
+
+With these features you can focus on core user experience and use Sociable gem as a shell to enable social interactions in your app.
