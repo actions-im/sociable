@@ -1,5 +1,5 @@
 $LOAD_PATH.unshift 'lib'
-require "sociable/version"
+require "version"
 
 Gem::Specification.new do |s|
   s.name              = "sociable"
@@ -11,7 +11,7 @@ Gem::Specification.new do |s|
   s.authors           = [ "Sergey Zelvenskiy" ]
   s.has_rdoc          = false
 
-  s.files             = %w( README.md Rakefile LICENSE )
+  s.files             = %w(README)
   s.files            += Dir.glob("lib/**/*")
   s.files            += Dir.glob("bin/**/*")
   s.files            += Dir.glob("man/**/*")
@@ -28,5 +28,5 @@ Gem::Specification.new do |s|
   4. Present user activities on user profile page.
   5. Follow friends activities.
   6. Present configurable newsfeed, which shows timeline of events happening in the app."
-desc
+
 end
