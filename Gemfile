@@ -1,11 +1,6 @@
 source "http://rubygems.org"
 
-group :profile
-  gem "devise_invitable"
-  gem "omniauth-facebook"
-  gem "omniauth-twitter"
-  gem "omniauth-openid"
-end
+gemspec
 
 group :test do
   gem "rspec-rails", ">= 2.7.0"
