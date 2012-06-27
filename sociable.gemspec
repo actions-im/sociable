@@ -29,4 +29,8 @@ Gem::Specification.new do |s|
   5. Follow friends activities.
   6. Present configurable newsfeed, which shows timeline of events happening in the app."
 
+  s.add_dependency("devise", "~> 2.1.2")
+  s.add_dependency("omniauth-facebook", "~> 1.4.0")
+  s.add_dependency("omniauth-twitter", "~> 0.0.12")
+
 end
